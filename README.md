@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/695291842.svg)](https://zenodo.org/badge/latestdoi/695291842)
 
-This code represents a custom outlier rejection algorithm for JWST/NIRSpec IFS data, described in Hutchison et al., submitted to PASP (arxiv:2312.12518).  The algorithm has been split into different jupyter notebooks in order to make it easier to parse and easier to test/troubleshoot specific sections for your own data.
+This code represents a custom outlier rejection algorithm for JWST/NIRSpec IFS data, described in [Hutchison et al. (2024)](https://doi.org/10.1088/1538-3873/ad34fd).  The algorithm has been split into different jupyter notebooks in order to make it easier to parse and easier to test/troubleshoot specific sections for your own data.
 
 
 ### Order of Operations

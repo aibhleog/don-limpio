@@ -1,9 +1,9 @@
 '''
 
 Series of helper functions for use in the layered sigma-clipping algorithm 
-defined in Hutchison et al., submitted to PASP.
+defined in Hutchison et al. (2024).
 
-To read more, see arxiv.org/abs/2312.12518
+To read more, see https://doi.org/10.1088/1538-3873/ad34fd
 
 Created by Dr. Taylor Hutchison, NASA GSFC,
 on behalf of the TEMPLATES team.
